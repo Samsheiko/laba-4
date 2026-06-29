@@ -115,4 +115,3 @@
 
 
 
-<img width="541" height="105" alt="Снимок экрана 2026-03-25 в 9 10 03 AM" src="https://github.com/user-attachments/assets/7221348c-86c3-4707-be94-dc246f9cf893" />
